@@ -1,0 +1,5 @@
+delete_merged_branches = true
+required_approvals = 1
+timeout_sec = 3600
+status = [ 'build' ]
+use_squash_merge = true
