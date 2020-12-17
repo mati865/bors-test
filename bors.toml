@@ -1,4 +1,4 @@
 delete_merged_branches = true
-required_approvals = true
+required_approvals = 1
 timeout_sec = 3600
 use_squash_merge = true
